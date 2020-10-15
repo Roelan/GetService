@@ -1,8 +1,11 @@
 package com.example.getservice.di;
 
+import android.app.Application;
 import android.content.Context;
 
 import androidx.annotation.NonNull;
+
+import com.example.getservice.room.NoteRepository;
 
 import javax.inject.Singleton;
 
@@ -12,15 +15,15 @@ import dagger.Provides;
 @Module
 public class AppModule {
 
-    private Context applicationContext;
+    private Application applicationContext;
 
-    public AppModule(@NonNull Context context) {
-        applicationContext = context;
+    public AppModule(@NonNull Application application) {
+        applicationContext = application;
     }
 
     @Provides
     @Singleton
-    Context provideContext() {
+    Application provideApplicationContext() {
         return applicationContext;
     }
 }

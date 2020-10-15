@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GetService</string>
+    <string name="delete_all_notes">Delete all Notes</string>
 </resources>
