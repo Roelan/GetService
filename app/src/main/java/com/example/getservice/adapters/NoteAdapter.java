@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.getservice.R;
-import com.example.getservice.room.Note;
+import com.example.room.Note;
 
 import java.util.ArrayList;
 import java.util.List;

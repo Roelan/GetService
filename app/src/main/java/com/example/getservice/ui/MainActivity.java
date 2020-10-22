@@ -21,7 +21,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.getservice.R;
 import com.example.getservice.adapters.NoteAdapter;
 import com.example.getservice.data.NoteData;
-import com.example.getservice.room.Note;
+import com.example.room.Note;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

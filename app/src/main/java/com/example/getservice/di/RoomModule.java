@@ -2,7 +2,8 @@ package com.example.getservice.di;
 
 import android.app.Application;
 
-import com.example.getservice.room.NoteRepository;
+
+import com.example.room.NoteRepository;
 
 import javax.inject.Singleton;
 

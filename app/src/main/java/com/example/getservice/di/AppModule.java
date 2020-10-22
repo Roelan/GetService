@@ -1,11 +1,8 @@
 package com.example.getservice.di;
 
 import android.app.Application;
-import android.content.Context;
 
 import androidx.annotation.NonNull;
-
-import com.example.getservice.room.NoteRepository;
 
 import javax.inject.Singleton;
 

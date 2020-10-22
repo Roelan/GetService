@@ -1,4 +1,4 @@
-package com.example.getservice.room;
+package com.example.room;
 
 import android.content.Context;
 import android.os.AsyncTask;

@@ -9,8 +9,9 @@ import androidx.lifecycle.LiveData;
 
 import com.example.getservice.App;
 import com.example.getservice.data.NoteData;
-import com.example.getservice.room.Note;
-import com.example.getservice.room.NoteRepository;
+import com.example.room.Note;
+import com.example.room.NoteRepository;
+
 
 import java.util.List;
 

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/GetService.iml" filepath="$PROJECT_DIR$/GetService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyProjects-GetService.iml" filepath="$PROJECT_DIR$/.idea/modules/MyProjects-GetService.iml" group="GetService" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GetService/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-room/data-room.iml" filepath="$PROJECT_DIR$/.idea/modules/data-room/data-room.iml" group="GetService/data-room" />
     </modules>
   </component>
 </project>

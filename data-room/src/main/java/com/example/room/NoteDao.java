@@ -1,4 +1,4 @@
-package com.example.getservice.room;
+package com.example.room;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
